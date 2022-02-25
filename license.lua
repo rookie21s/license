@@ -1,1 +1,3 @@
-["Koruma"] = true
+iplist = {
+  ["Koruma"] = true
+}
