@@ -1,3 +1,1 @@
-iplist = {
-	["Koruma"] = true
-}
+["Koruma"] = true
